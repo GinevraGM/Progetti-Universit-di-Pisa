@@ -1,2 +1,0 @@
-Main-Class: ServerMain
-Class-Path: gson-2.10.jar
